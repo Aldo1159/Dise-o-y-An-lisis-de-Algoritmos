@@ -1,4 +1,4 @@
-# Alfabeto que vamos a utilizar, incluyendo la ñ
+# Alfabeto que vamos a utilizar
 alfabeto = "abcdefghijklmnñopqrstuvwxyz"
 # Abrimos el archivo donde esta el mensaje
 archivo = open("mensajeCifrado.txt", "r", encoding="utf-8-sig")
